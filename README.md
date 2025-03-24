@@ -45,3 +45,7 @@ Integrate real-time patient data from smart devices.
 Provide explainable AI to enhance model transparency for healthcare professionals.
 
 This project demonstrates the transformative potential of AI in healthcare, making early diagnosis faster, more efficient, and widely accessible.
+![image](https://github.com/user-attachments/assets/543f730d-3af3-41e8-82f5-e72ce6f700b0)
+![image](https://github.com/user-attachments/assets/62e60049-e86e-4d6b-b863-138b0e30d2e0)
+![image](https://github.com/user-attachments/assets/6425f94b-01f3-4151-a5f2-1e2592dcbd16)
+
