@@ -48,4 +48,8 @@ This project demonstrates the transformative potential of AI in healthcare, maki
 ![image](https://github.com/user-attachments/assets/543f730d-3af3-41e8-82f5-e72ce6f700b0)
 ![image](https://github.com/user-attachments/assets/62e60049-e86e-4d6b-b863-138b0e30d2e0)
 ![image](https://github.com/user-attachments/assets/6425f94b-01f3-4151-a5f2-1e2592dcbd16)
+![image](https://github.com/user-attachments/assets/adb772a9-2244-43e3-bd44-91a49e17531d)
+![image](https://github.com/user-attachments/assets/82b5e615-ea70-4a37-98b0-9297442690e7)
+![image](https://github.com/user-attachments/assets/3ea2c1f9-83bc-482a-81ae-64bb660e5d82)
+
 
